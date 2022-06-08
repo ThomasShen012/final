@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 224,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "time": 283,
+    "timeDay": 283,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/ncueeclass.ncu.edu.tw",
     "slug": "ee-class",
     "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
-    "time": 1922,
-    "timeDay": 1922,
-    "timeWeek": 1922,
-    "timeMonth": 1922,
-    "timeYear": 1922,
-    "dailyMinutesDown": {
-      "2022-06-07": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2033,
+    "timeDay": 2033,
+    "timeWeek": 2033,
+    "timeMonth": 2033,
+    "timeYear": 2033,
+    "dailyMinutesDown": {}
   },
   {
     "name": "portal",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1990,
-    "timeDay": 1990,
-    "timeWeek": 1990,
-    "timeMonth": 1990,
-    "timeYear": 1990,
+    "time": 1821,
+    "timeDay": 1821,
+    "timeWeek": 1821,
+    "timeMonth": 1821,
+    "timeYear": 1821,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 336,
-    "timeWeek": 336,
-    "timeMonth": 336,
-    "timeYear": 336,
+    "time": 406,
+    "timeDay": 406,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 108,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "time": 149,
+    "timeDay": 149,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {}
   },
   {
@@ -108,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-07": 741
+      "2022-06-08": 40,
+      "2022-06-07": 999
     }
   }
 ]
