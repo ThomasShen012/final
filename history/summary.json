@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 341,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "time": 272,
+    "timeDay": 250,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/ncueeclass.ncu.edu.tw",
     "slug": "ee-class",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "99.01%",
     "uptimeDay": "98.29%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.78%",
-    "time": 1891,
-    "timeDay": 1860,
-    "timeWeek": 1891,
-    "timeMonth": 1891,
-    "timeYear": 1891,
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
+    "time": 2190,
+    "timeDay": 2426,
+    "timeWeek": 2190,
+    "timeMonth": 2190,
+    "timeYear": 2190,
     "dailyMinutesDown": {
       "2022-06-08": 25
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1821,
-    "timeDay": 1651,
-    "timeWeek": 1821,
-    "timeMonth": 1821,
-    "timeYear": 1821,
+    "time": 1706,
+    "timeDay": 1476,
+    "timeWeek": 1706,
+    "timeMonth": 1706,
+    "timeYear": 1706,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 475,
-    "timeWeek": 406,
-    "timeMonth": 406,
-    "timeYear": 406,
+    "time": 448,
+    "timeDay": 532,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 190,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 148,
+    "timeDay": 145,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   },
   {
@@ -108,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-08": 1018,
+      "2022-06-09": 43,
+      "2022-06-08": 1440,
       "2022-06-07": 999
     }
   }
