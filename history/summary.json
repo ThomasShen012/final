@@ -42,18 +42,20 @@
     "url": "https://portal.ncu.edu.tw/",
     "icon": "https://favicons.githubusercontent.com/portal.ncu.edu.tw",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1925,
-    "timeDay": 2282,
-    "timeWeek": 1925,
-    "timeMonth": 1925,
-    "timeYear": 1925,
-    "dailyMinutesDown": {}
+    "time": 1842,
+    "timeDay": 1732,
+    "timeWeek": 1842,
+    "timeMonth": 1842,
+    "timeYear": 1842,
+    "dailyMinutesDown": {
+      "2022-06-14": 0
+    }
   },
   {
     "name": "dictionary",
@@ -108,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-14": 49,
+      "2022-06-14": 246,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
